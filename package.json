@@ -1,5 +1,6 @@
 {
     "license": "MIT",
+    "version": "1.0.0",    
     "name": "laravel-mix-webapp",
     "main": "src/index.js",
     "description": "",
