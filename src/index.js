@@ -27,7 +27,7 @@ class WebApp {
         this.options = Object.assign({
             filename: 'webapp.html',
             outputPath: '/webicons',
-            prefix: 'webicons/',
+            prefix: 'assets/webicons/',
             favicons: {},
         }, options)
     }
