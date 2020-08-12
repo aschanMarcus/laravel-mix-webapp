@@ -1,0 +1,19 @@
+{
+    "license": "MIT",
+    "name": "laravel-mix-webapp",
+    "main": "src/index.js",
+    "description": "",
+    "homepage": "",
+    "peerDependecies": {
+        "laravel-mix": "^2.0.0"
+    },
+    "devDependencies": {
+        "favicons-webpack-plugin": "^4.2.0",
+        "html-webpack-plugin": "^4.3.0"
+    },
+    "keywords": [
+        "laravel",
+        "mix",
+        "webpack"
+    ]
+}
