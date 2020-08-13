@@ -14,7 +14,7 @@ yarn add html-webpack-plugin --dev
 ```js
 require('laravel-mix-versionhash')
 
-mix.webApp()
+mix.webApp({logo: 'src/path-to-logo.svg'})
 ```
 
 ## Options
