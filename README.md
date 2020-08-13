@@ -12,7 +12,7 @@ yarn add @aschan/laravel-mix-webapp --dev
 
 ## Usage
 ```js
-require('laravel-mix-versionhash')
+require('@aschan/laravel-mix-webapp')
 
 mix.webApp({logo: 'src/path-to-logo.svg'})
 ```
