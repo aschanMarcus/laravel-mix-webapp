@@ -1,16 +1,20 @@
 {
     "license": "MIT",
-    "version": "1.0.0",    
+    "version": "1.0.0",
     "name": "laravel-mix-webapp",
     "main": "src/index.js",
-    "description": "",
-    "homepage": "",
-    "peerDependecies": {
-        "laravel-mix": "^2.0.0"
+    "description": "Let webpack generate all your favicons and icons for you and inject them into a html file",
+    "homepage": "https://github.com/aschanMarcus/laravel-mix-webapp",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aschanMarcus/laravel-mix-webapp.git"
     },
     "dependencies": {
         "favicons-webpack-plugin": "^4.2.0",
         "html-webpack-plugin": "^4.3.0"
+    },
+    "peerDependecies": {
+        "laravel-mix": "^2.0.0"
     },
     "keywords": [
         "laravel",
