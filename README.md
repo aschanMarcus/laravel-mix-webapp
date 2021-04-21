@@ -4,10 +4,10 @@ Leverages on [Favicons Webpack Plugin](https://github.com/jantimon/favicons-webp
 
 ## Install
 ```bash
-npm i @aschan/laravel-mix-webapp --save-dev
+npm i laravel-mix-webapp --save-dev
 ```
 ```bash
-yarn add @aschan/laravel-mix-webapp --dev
+yarn add laravel-mix-webapp --dev
 ```
 
 ## Usage
